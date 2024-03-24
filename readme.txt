@@ -1,2 +1,2 @@
 I am a test readme.txt
-Creating a branch is fun!
+Creating a new branch is quick AND simple.
